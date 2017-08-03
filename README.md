@@ -1,5 +1,5 @@
 # blog
-Files organised as
+Files organized as
 
 -app.yaml   <br />
 -blog.py    <br />

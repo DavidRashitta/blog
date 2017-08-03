@@ -1,7 +1,7 @@
 # blog
 Files organised as
 
--app.yaml
+-app.yaml \n
 -blog.py
 -blog.pyc
 +templates:
